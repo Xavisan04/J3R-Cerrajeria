@@ -277,7 +277,7 @@
 
                     <!-- Map Placeholder -->
                     <div class="mt-12 rounded-2xl overflow-hidden grayscale border border-white/10 h-64 relative group">
-                        <iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d796.5885343216885!2d-66.27821904521564!3d18.245045118999204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2spr!4v1771867117062!5m2!1ses-419!2spr"
+                        <iframe src="<iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d796.5885343216885!2d-66.27821904521564!3d18.245045118999204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2spr!4v1771867117062!5m2!1ses-419!2spr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
 
