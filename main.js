@@ -38,7 +38,7 @@
       "geo": {
         "@type": "GeoCoordinates",
         "latitude": 18.2455568,
-        "longitude": -66.1642
+        "longitude": -66.2782977
       },
       "openingHoursSpecification": {
         "@type": "OpeningHoursSpecification",
